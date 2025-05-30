@@ -4,28 +4,30 @@ This repository contains a documentation of my embedded systems and IoT projects
 
 ## 🔧 Design
 
-![Design of ROTTER](https://github.com/user-attachments/assets/14eace0e-10e8-4560-8f15-274edb7cf460)
+![Wiring](https://github.com/user-attachments/assets/92944b5d-d32c-4762-a169-b3747559dfb2)
 
 ---
 
 ## 🚀 Features & Highlights
-ROTTER is a prototype of robot for helping out people to expele a phlegm from their throat with pating their back for a couple of second or minute at a constant speed and frequency. It includes Program Documentation and also Physical Design of robot's body.
-Core program of this project is about :
-- ✅ Close loop DC motor controller with encoder feedback (Arduino-based)
-- ✅ PID-based motor speed and position control
+This project was developed based on a survey of hydroponic farms that my colleagues and I conducted as part of the completion of the capstone design course. The result is that there is potential to automate some of the necessary tasks such as automatically adding nutrients when the levels are below standard, automatically turning off and on the lighting and monitoring the temperature and humidity conditions.
+- ✅ Sensor used : Photoresistor-based Light Sensor, PH and EC Sensor, Temperature and Humidity Sensor
+- ✅ Actuator used : Two Channel Relay, 5V water pump, 12V water pump, UV Light
 ---
 
 ## 🧰 Technologies Used
 
 - Languages: `C++`
-- Platforms: `Arduino IDE`
-- Hardware: `ESP32`, `DC Motor`, `Encoder`
+- Platforms: `Platform I/O,`, `Node-Red`
+- Hardware: `ESP32`, `DC Motor Water Pump 5V/12V`, `Relay`
 
 ---
 
-## 🎬 Sneak Peak Achievement Made
+## 🎬 Documentation 
+Node-Red Program
+![Screenshoot Node-Red program](https://github.com/user-attachments/assets/b07e7363-322a-4f7f-b94b-515227f66795)
 
-![Gambar Sertifikat Rekognisi](https://github.com/user-attachments/assets/c33b3139-71ae-4312-8308-aca21f5d8238)
+Demonstratrion Video
+https://drive.google.com/file/d/1caV2r4S4paJR6tumSdnLgz-AsRqLNsEx/view?usp=sharing
 
 ---
 
