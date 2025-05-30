@@ -1,6 +1,6 @@
 # 🤖 Rafif's Projects
 
-This repository contains a documentation of my embedded systems projects about creating a prototype robot for helping out people to expele a phlegm from their throat. It includes Program Documentation and also Physical Design of robot's body.
+This repository contains a documentation of my embedded systems and IoT projects
 
 ## 🔧 Design
 
@@ -9,16 +9,10 @@ This repository contains a documentation of my embedded systems projects about c
 ---
 
 ## 🚀 Features & Highlights
-
-- ✅ Modular DC motor controller with encoder feedback (Arduino-based)
-- ✅ PID-based X-Drive motor speed control
-- ✅ IMU sensor filtering with Madgwick filter (MPU6050, BMI160, BMX160, MPU9250)
-- ✅ ROS2 node for :
-  -> Communicating with other microcontroller using UART protocol
-  -> Position control with dead reckoning navigation and PID
-  -> Receiving data from non-ROS2 program (python program outside the ROS2 ecosystem)
-  -> Early development of custom fusion algorithm using EKF to fuse wheel encoder, freewheel encoder and IMU
-
+ROTTER is a prototype of robot for helping out people to expele a phlegm from their throat with pating their back for a couple of second or minute at a constant speed and frequency. It includes Program Documentation and also Physical Design of robot's body.
+Core program of this project is about :
+- ✅ Close loop DC motor controller with encoder feedback (Arduino-based)
+- ✅ PID-based X-Drive motor speed and position control
 ---
 
 ## 🧰 Technologies Used
