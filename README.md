@@ -11,14 +11,14 @@ This repository contains a documentation of my embedded systems and IoT projects
 ## 🚀 Features & Highlights
 This project was developed based on a survey of hydroponic farms that my colleagues and I conducted as part of the completion of the capstone design course. The result is that there is potential to automate some of the necessary tasks such as automatically adding nutrients when the levels are below standard, automatically turning off and on the lighting and monitoring the temperature and humidity conditions.
 - ✅ Sensor used : Photoresistor-based Light Sensor, PH and EC Sensor, Temperature and Humidity Sensor, Ultrasonic Sensor
-- ✅ Actuator used : Two Channel Relay, 5V water pump, 12V water pump, UV Light
+- ✅ Actuator used : Two Channel Relay, DC 5V water pump, AC water pump, UV Light
 ---
 
 ## 🧰 Technologies Used
 
 - Languages: `C++`
 - Platforms: `Platform I/O,`, `Node-Red`
-- Hardware: `ESP32`, `DC Motor Water Pump 5V/12V`, `Relay`
+- Hardware: `ESP32`, `Motor Water Pump`, `Relay`
 
 ---
 
