@@ -26,7 +26,7 @@ This project was developed based on a survey of hydroponic farms that my colleag
 Node-Red Program
 ![Screenshoot Node-Red program](https://github.com/user-attachments/assets/b07e7363-322a-4f7f-b94b-515227f66795)
 
-Demonstratrion Video
+Demo Video
 https://drive.google.com/file/d/1caV2r4S4paJR6tumSdnLgz-AsRqLNsEx/view?usp=sharing
 
 ---
