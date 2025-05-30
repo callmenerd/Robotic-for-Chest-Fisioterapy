@@ -12,7 +12,7 @@ This repository contains a documentation of my embedded systems and IoT projects
 ROTTER is a prototype of robot for helping out people to expele a phlegm from their throat with pating their back for a couple of second or minute at a constant speed and frequency. It includes Program Documentation and also Physical Design of robot's body.
 Core program of this project is about :
 - ✅ Close loop DC motor controller with encoder feedback (Arduino-based)
-- ✅ PID-based X-Drive motor speed and position control
+- ✅ PID-based motor speed and position control
 ---
 
 ## 🧰 Technologies Used
